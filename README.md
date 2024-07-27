@@ -112,6 +112,67 @@ I will use foxy proxy to listen to the traffic with specified port.
 
 
 
+The next thing to do is now send the tarffic to the intruder and in the intruder tab
+I will clear the hole payload first then I will add the password field to the payload.
+
+
+
+
+![image](https://github.com/user-attachments/assets/e83a02a5-3057-4f1d-8521-dca718510827)
+
+
+
+
+
+
+
+
+Next is to add a simple password and also take the error message when someone enetrs in
+a wrong username or password, list like this...
+
+
+
+
+![image](https://github.com/user-attachments/assets/ca34d091-177d-497d-a914-fd2d23fbe6c8)
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/3b34a74c-8105-43fd-8eeb-59d98114bcb7)
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/a0468b79-f5ff-4950-a095-433b2dbb5e9c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
