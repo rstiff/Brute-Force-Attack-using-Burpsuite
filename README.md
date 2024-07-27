@@ -67,6 +67,30 @@ they manage to find the correct login information.
 
 
 
+Burp suite
+
+
+
+
+Burp suite works as an interception proxy between the browser and the server. So when you
+make a request from the browser, it gose to the burp proxy then the server. The proxy can 
+intercept web request and read and edit those request.
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/93e58b27-141f-4839-a927-74fc8d0563f0)
+
+
+
+
+
+
+
+
+
+
 
 
 
