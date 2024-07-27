@@ -44,6 +44,9 @@ Outline
 
 
 
+
+
+
 Brute Force Attack
 
 
@@ -52,6 +55,12 @@ Brute Force Attack
 A brute force attack is a technique used by hackers to get into someone's account guessing
 their login credintials. The hacker essentially attempts various usernames and passwords until
 they manage to find the correct login information.
+
+
+
+
+![image](https://github.com/user-attachments/assets/02407853-2ec6-4856-811b-b5e92d408eb7)
+
 
 
 
