@@ -87,6 +87,38 @@ intercept web request and read and edit those request.
 
 
 
+How to use Burp suite to brute force a login page
+
+
+First is to turn the interception on in the proxy tab in burpsuite. Then
+I will use foxy proxy to listen to the traffic with specified port.
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/063915d6-edda-4b74-b5f8-275ef2f93c10)
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/4d1db45b-9279-48a3-acea-634884190778)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
