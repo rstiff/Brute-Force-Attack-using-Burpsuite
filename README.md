@@ -18,3 +18,30 @@ system that allows us as pen testers to be able to train on there.
 
 ![image](https://github.com/user-attachments/assets/0df5ff07-3467-408c-8bb2-84ab06bf4e18)
 
+
+
+
+
+
+Outline
+
+
+
+-> Brute Force Attack
+
+
+-> Burp suite
+
+
+-> How to use Burp suite to brute force a login page
+
+
+
+-> Brute force attack mitigation
+
+
+
+
+
+
+
