@@ -153,6 +153,81 @@ a wrong username or password, list like this...
 
 
 
+Last thing to do is to hit start attack in the top right corner of the
+page.
+
+
+
+![image](https://github.com/user-attachments/assets/12e1ea39-2bd7-477f-a174-0b0b113435a0)
+
+
+
+
+Result
+
+
+
+
+![image](https://github.com/user-attachments/assets/79f0d3c0-124d-4139-9050-3c51a6ddf3d7)
+
+
+
+
+
+
+proof
+
+
+
+![image](https://github.com/user-attachments/assets/2e1928bd-43cf-4eb4-86bc-6260703498c4)
+
+
+
+
+
+
+
+Brute force attack mitigation
+
+
+
+
+
+-> Increased password length(At least 14 characters long)
+
+
+
+-> Increased password complexity
+
+
+
+
+-> Use multi-factor autentication factors
+
+
+
+
+-> Limit login attempts
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/6d788fbe-4914-4184-b407-65cdf3352b70)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
